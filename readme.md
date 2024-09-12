@@ -103,7 +103,7 @@ Artists often struggle to find platforms that offer visibility and engagement fo
   - ![VM2_Screenshot](project/Vm-2.png)
 
   **Deployed LoadBalancer Screenshot**
-  - ![Loadbalancer_Screenshot](project/Loadbalancer.png)
+  - ![Loadbalancer_Screenshot](project/Load balancer.png)
 
   **Website Home Page Screenshot**
   - ![Website_Screenshot](project/website.png)
