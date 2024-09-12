@@ -94,19 +94,19 @@ Artists often struggle to find platforms that offer visibility and engagement fo
   - ![ResourceGroup Screenshot](./Project/az_login.png)
 
   **VNet Subnets RSG ARM Template Output**
-  - ![Deployment Screenshot](./Project/deployment.png)
+  - ![Deployment_Screenshot](./Project/deployment.png)
 
    **Deployed VM 1 Screenshot**
-  - ![VM1 Screenshot](./Project/Vm-1.png)
+  - ![VM1_Screenshot](./Project/Vm-1.png)
 
   **Deployed VM 2 Screenshot**
-  - ![VM2 Screenshot](./Project/Vm-2.png)
+  - ![VM2_Screenshot](./Project/Vm-2.png)
 
   **Deployed LoadBalancer Screenshot**
-  - ![Loadbalancer Screenshot](./Project/Loadbalancer.png)
+  - ![Loadbalancer_Screenshot](./Project/Loadbalancer.png)
 
   **Website Home Page Screenshot**
-  - ![Website Screenshot](./Project/website.png)
+  - ![Website_Screenshot](./Project/website.png)
 
 ## Conclusion
 
